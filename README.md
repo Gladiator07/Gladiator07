@@ -10,11 +10,6 @@
 
 
 ### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva-Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)]
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)]
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)]
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:atharvaaingle@gmail.com)]
 <br>
 
 
