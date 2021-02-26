@@ -2,23 +2,20 @@
 
 ## I'm a Student, blogger and a Kaggler
 
-- 🔭 I am very active at [Kaggle](https://www.kaggle.com/atharvaingle)
-- 🌱 I’m currently learning computer vision and MLOps
-- 👯 I’m looking to collaborate with other Deep Learning practitioners and web developers
-- 👯 I'm into Machine Learning, Deep Learning, Computer vision, NLP, Reinforcement Learning 
-- ⚡ Fun fact: I am a big fan of Cristiano Ronaldo
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP, Reinforcement Learning
+- 🌱 I’m currently learning computer vision, MLOps, NLP and Web Development
+- 👯 I’m looking to collaborate for Machine Learning projects
+- 🤔 I’m looking for help with web development (frontend) 
+- ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="atharvaai.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gladiator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gladiator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gladiator | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="gladiator | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[![Linkedin Badge](https://img.shields.io/badge/-Atharva-Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/rachitt-shah)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://atharvaai7.wordpress.com/)
+[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://mobile.twitter.com/rachittshah)
+[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:atharvaaingle@gmail.com)
+<br>
 
 
 <br />
