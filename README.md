@@ -45,7 +45,7 @@ on- 👯 I’m looking to collaborate on Machine Learning projects
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
 ---
 
-### Technologies and Tools:
+### Tools and Technologies:
 
 #### Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -112,4 +112,4 @@ on- 👯 I’m looking to collaborate on Machine Learning projects
 ---
 
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator07&layout=compact)](https://github.com/Gladiator07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator07&layout=compact&theme=tokyonight)](https://github.com/Gladiator07)
