@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
