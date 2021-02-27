@@ -1,16 +1,6 @@
-## Hi there, I'm Atharva👋
 
-## I'm a Student, blogger and a Kaggler
-
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP, Reinforcement Learning
-- 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
-- 👯 I’m looking to collaborate for Machine Learning projects
-- 🤔 I’m looking for help with web development (frontend) 
-- ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
-
----
-### Connect with me:
-<br>
+<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h3 align="center">Pythonista || Blogger || Kaggler </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle)
@@ -19,6 +9,24 @@
 [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
 
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
+- 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
+- 👯 I’m looking to collaborate for Machine Learning projects
+- 🤔 I’m looking for help with web development (frontend) 
+- ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
+
+### I am currently working on:
+- 🧐 Computer Vision Projects
+- 👀 [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)
+- 😃 [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
+- 😬 Machine Learning based Healthcare website
+- 😉 Personal Portfolio Website
+
+### Recent Projects:
+- [Harvestify](https://github.com/Gladiator07/Harvestify)
+- [Bengali Grapheme Classification](https://github.com/Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification)
+- [Pneumonia Detection](https://github.com/Gladiator07/Pneumonia-Detection)
+- [JARVIS](https://github.com/Gladiator07/JARVIS)
 ---
 
 ### Technologies and Tools:
@@ -75,11 +83,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
-
-
-<br />
-<br />
-
 
 ---
 
