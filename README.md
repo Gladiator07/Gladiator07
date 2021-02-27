@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">Pythonista || Blogger || Kaggler </h3>
 
-<br>
 
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
@@ -16,7 +15,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
