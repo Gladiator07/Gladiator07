@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1>
 <h3 align="center">Pythonista || Blogger || Kaggler </h3>
 
 
@@ -13,13 +13,21 @@
 [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
 
+
+<!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)
+<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> -->
+
 ---
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized.gif" />
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
-- 👯 I’m looking to collaborate for Machine Learning projects
+on- 👯 I’m looking to collaborate on Machine Learning projects
 - 🤔 I’m looking for help with web development (frontend) 
 - ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
 
@@ -103,5 +111,4 @@
 ---
 
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiator07&layout=compact)](https://github.com/Gladiator07)
