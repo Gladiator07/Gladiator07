@@ -29,7 +29,7 @@
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
-on- 👯 I’m looking to collaborate on Machine Learning projects
+- 👯 I’m looking to collaborate on Machine Learning projects
 - 🤔 I’m looking for help with web development (frontend) 
 - ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
 
