@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 🤔 I’m looking for help with web development (frontend) 
-- ⚡ Fun fact: I am highly active on [Kaggle](https://www.kaggle.com/atharvaingle)
+- ⚡ Fun fact: I am highly active on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/) and [Kaggle](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - 🧐 Computer Vision Projects
