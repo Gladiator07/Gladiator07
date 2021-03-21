@@ -36,7 +36,6 @@
 ### I am currently working on:
 - 🧐 Computer Vision Projects
 - 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
-- 😃 [Kaggle Tabular Playground series](https://www.kaggle.com/c/tabular-playground-series-mar-2021)
 - 😬 Custom Machine Learning Framework for any Tabular data
 - 😬 Machine Learning based Healthcare website
 - 😉 Personal Portfolio Website
