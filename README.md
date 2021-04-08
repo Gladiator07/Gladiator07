@@ -28,15 +28,15 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Computer Vision, MLOps, NLP and Web Development
-- 👯 I’m looking to collaborate on Machine Learning projects
+- 🌱 I’m currently learning NLP, MLOPs and Web Development
+- 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with web development (frontend) 
 - ⚡ Fun fact: I am highly active on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/) and [Kaggle](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - 🧐 Computer Vision Projects
 - 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
-- 😬 Custom Machine Learning Framework for any Tabular data
+- 👀 [BirdCLEF 2021 - Birdcall Identification (Kaggle)](https://www.kaggle.com/c/birdclef-2021)
 - 😬 Machine Learning based Healthcare website
 - 😉 Personal Portfolio Website
 
