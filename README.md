@@ -34,7 +34,7 @@
 - ⚡ Fun fact: I am highly active on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/) and [Kaggle](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
-- 🧐 AutoTab - an end-to-end automated Machine Learning Framework to tackle any Tabular Dataset
+- 🧐 **AUTO-TAB** - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
 - 👀 [BirdCLEF 2021 - Birdcall Identification (Kaggle)](https://www.kaggle.com/c/birdclef-2021)
 - 😬 Machine Learning based Healthcare website
