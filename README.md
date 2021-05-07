@@ -36,7 +36,7 @@
 ### I am currently working on:
 - 🧐 **AUTO-TAB** - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
-- 👀 [BirdCLEF 2021 - Birdcall Identification (Kaggle)](https://www.kaggle.com/c/birdclef-2021)
+- 👀 [CommonLit Readability Prize (Kaggle)](https://www.kaggle.com/c/commonlitreadabilityprize/)
 - 😬 Machine Learning based Healthcare website
 - 😉 Personal Portfolio Website
 
