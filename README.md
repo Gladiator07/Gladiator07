@@ -28,7 +28,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning NLP, MLOPs and Web Development
+- 🌱 I’m currently learning NLP and MLOPs
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with web development (frontend) 
 - ⚡ Fun fact: I am highly active on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/) and [Kaggle](https://www.kaggle.com/atharvaingle)
