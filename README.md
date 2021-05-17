@@ -70,8 +70,10 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
 <code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
 <code><img height="30" src="https://huggingface.co/favicon.ico"></code>
+<code><img height="30" src=""></code>
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
 <code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+<code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
 
 #### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
