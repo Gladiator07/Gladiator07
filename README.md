@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1>
-<h3 align="center">Constant Learner|| Kaggler || Blogger </h3>
+<h3 align="center">Constant Learner || Kaggler || Blogger </h3>
 
 
 ![](https://komarev.com/ghpvc/?username=Gladiator07)
@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning NLP and MLOPs
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am highly active on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/) and [Kaggle](https://www.kaggle.com/atharvaingle)
+- ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - 🧐 **AUTO-TAB** - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
