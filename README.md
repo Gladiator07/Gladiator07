@@ -112,5 +112,6 @@
 - [Plant Disease Detection Using ResNet](https://medium.com/analytics-vidhya/plant-disease-classification-using-resnet-29f7c4f118c2)
 - [10 Tips to Learn Machine Learning Effectively](https://medium.com/swlh/10-tips-to-learn-machine-learning-72b7dcf15528)
 ---
+[![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/)
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
