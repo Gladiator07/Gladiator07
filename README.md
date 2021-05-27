@@ -44,7 +44,7 @@
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
 - [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [Handwritten Digit Classification in pure C++ (without any external libraries)[https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP]
+- [Handwritten Digit Classification in pure C++ (without any external libraries)](https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP)
 ---
 
 ### Tools and Technologies:
