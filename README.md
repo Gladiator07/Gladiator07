@@ -42,9 +42,9 @@
 
 ### Recent Projects 🎉🎉
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [Bengali Grapheme Classification](https://github.com/Gladiator07/Bengali-AI-Handwritten-Grapheme-Classification)
-- [Pneumonia Detection](https://github.com/Gladiator07/Pneumonia-Detection)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
+- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
+- [Handwritten Digit Classification in pure C++ (without any external libraries)[https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP]
 ---
 
 ### Tools and Technologies:
