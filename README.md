@@ -29,16 +29,15 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Transformers, GANs and MLOPs
+- 🌱 I’m currently learning Transformers, GANs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - 🧐 **AUTO-TAB** - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-- 👀 [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation)
+- 👀 [SETI Breakthrough Listen - E.T. Signal Search (Kaggle)](https://www.kaggle.com/c/seti-breakthrough-listen)
 - 👀 [CommonLit Readability Prize (Kaggle)](https://www.kaggle.com/c/commonlitreadabilityprize/)
-- 😬 Machine Learning based Healthcare website
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
