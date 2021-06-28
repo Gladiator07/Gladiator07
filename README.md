@@ -35,7 +35,7 @@
 - ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
-- 🧐 **AUTO-TAB** - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
+- ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀 [SETI Breakthrough Listen - E.T. Signal Search (Kaggle)](https://www.kaggle.com/c/seti-breakthrough-listen)
 - 👀 [CommonLit Readability Prize (Kaggle)](https://www.kaggle.com/c/commonlitreadabilityprize/)
 - 😉 Personal Portfolio Website
