@@ -37,7 +37,7 @@
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀 [SETI Breakthrough Listen - E.T. Signal Search (Kaggle)](https://www.kaggle.com/c/seti-breakthrough-listen)
-- 👀 [CommonLit Readability Prize (Kaggle)](https://www.kaggle.com/c/commonlitreadabilityprize/)
+- 👀[G2Net Gravitational Wave Detection (Kaggle)](https://www.kaggle.com/c/g2net-gravitational-wave-detection) - detecting gravitational wave signals from binary black hole collisions
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
