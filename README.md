@@ -29,7 +29,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Transformers, GANs, MLOPs and DSA
+- 🌱 I’m currently learning Transformers, GANs, MLOPs, Digital Signal Processing and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
@@ -105,14 +105,6 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
-<!-- ---
-
-### 📕 Latest Blog Posts
-##### I also write technical blogs. Feel free to check them out ...
-- [Connect Local VSCode to Google Colab’s GPU Runtime](https://medium.com/swlh/connecting-local-vscode-to-google-colabs-gpu-runtime-bceda3d6cf64)
-- [Project Management Tools and Techniques](https://atharvaaingle.medium.com/project-management-tools-and-techniques-80f558df5ed2)
-- [Plant Disease Detection Using ResNet](https://medium.com/analytics-vidhya/plant-disease-classification-using-resnet-29f7c4f118c2)
-- [10 Tips to Learn Machine Learning Effectively](https://medium.com/swlh/10-tips-to-learn-machine-learning-72b7dcf15528) -->
 ---
 [![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/)
 
