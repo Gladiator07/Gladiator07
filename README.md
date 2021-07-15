@@ -38,6 +38,7 @@
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀 [SETI Breakthrough Listen - E.T. Signal Search (Kaggle)](https://www.kaggle.com/c/seti-breakthrough-listen)
 - 👀[G2Net Gravitational Wave Detection (Kaggle)](https://www.kaggle.com/c/g2net-gravitational-wave-detection) - detecting gravitational wave signals from binary black hole collisions
+- [RSNA-MICCAI Brain Tumor Radiogenomic Classification (Kaggle)](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification) - Predict the status of a genetic biomarker important for brain cancer treatment
 - 😉 Personal Portfolio Website
 
 ### Recent Projects 🎉🎉
