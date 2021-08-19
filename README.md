@@ -93,11 +93,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### Operating System
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/ubuntu.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/debian.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/arch-linux.png?raw=true"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true"></code>
+<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
+<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/mac.png?raw=true"></code>
 
 #### Hardware
