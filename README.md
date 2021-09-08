@@ -37,7 +37,6 @@
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - 👀[G2Net Gravitational Wave Detection (Kaggle)](https://www.kaggle.com/c/g2net-gravitational-wave-detection) - detecting gravitational wave signals from binary black hole collisions
-- [RSNA-MICCAI Brain Tumor Radiogenomic Classification (Kaggle)](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification) - Predict the status of a genetic biomarker important for brain cancer treatment
 
 ### Recent Projects 🎉🎉
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
