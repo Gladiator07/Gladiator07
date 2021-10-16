@@ -36,6 +36,8 @@
 
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
+- [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
+- [PetFinder.my - Pawpularity Contest (Kaggle)](https://www.kaggle.com/c/petfinder-pawpularity-score)
 
 ### Recent Projects 🎉🎉
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
