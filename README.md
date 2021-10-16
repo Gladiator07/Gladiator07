@@ -29,7 +29,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Transformers, GANs, MLOPs, Digital Signal Processing and DSA
+- 🌱 I’m currently learning GANs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
