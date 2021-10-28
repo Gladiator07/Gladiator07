@@ -39,11 +39,12 @@
 - [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
 - [PetFinder.my - Pawpularity Contest (Kaggle)](https://www.kaggle.com/c/petfinder-pawpularity-score)
 
-### Recent Projects 🎉🎉
+### Recent Projects/Achievements 🎉🎉
+- [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
+- [Bristol-Myers Squibb – Molecular Translation (Kaggle)] - 50th/874 (silver medal) - [solution approach + code](https://github.com/Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle)
+- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
-- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [Handwritten Digit Classification in pure C++ (without any external libraries)](https://github.com/Gladiator07/Neural-Network-from-scratch-in-CPP)
 ---
 
 ### Tools and Technologies:
