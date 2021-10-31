@@ -104,6 +104,7 @@
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
-[![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/)
+<!-- [![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/) -->
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats) -->
