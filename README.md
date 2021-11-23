@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Gladiator07)
 
-<h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
+<h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
