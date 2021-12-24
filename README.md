@@ -38,8 +38,7 @@
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 - [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
-- [Jigsaw Rate Severity of Toxic Comments (Kaggle)](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)
-- [Tensorflow - Help Protect the Great Barrier Reef (Kaggle)](https://www.kaggle.com/c/tensorflow-great-barrier-reef)
+- [Feedback Prize - Evaluating Student Writing (Kaggle)](https://www.kaggle.com/c/feedback-prize-2021)
 
 ### Recent Projects/Achievements 🎉🎉
 - [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
