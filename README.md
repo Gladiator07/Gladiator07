@@ -37,7 +37,6 @@
 
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-- [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
 - [Feedback Prize - Evaluating Student Writing (Kaggle)](https://www.kaggle.com/c/feedback-prize-2021)
 
 ### Recent Projects/Achievements 🎉🎉
