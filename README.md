@@ -33,7 +33,7 @@
 - 🌱 I’m currently learning GANs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
+- ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
