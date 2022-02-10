@@ -97,9 +97,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### Operating System
+<code><img height="30" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png"></code>
 
 #### Hardware
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
