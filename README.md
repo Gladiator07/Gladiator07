@@ -30,14 +30,14 @@
 <!-- <img align="right" alt="GIF" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif" /> -->
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning GANs, MLOPs and DSA
+- 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
 - [Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/c/happy-whale-and-dolphin)
-- [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
+- [NBME - Score Clinical Patient Notes (Kaggle)](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
 
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 
