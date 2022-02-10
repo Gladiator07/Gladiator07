@@ -45,6 +45,7 @@
 - [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) - 117/1505 (bronze medal) - [code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)
 - [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
 - [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation) - 50th/874 (silver medal) - [solution approach + code](https://github.com/Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle)
+- [Extractive and Abstractive Text Summarizer using Transformers](https://github.com/Gladiator07/Text-Summarizer)
 - [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
 - [GPU and TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
