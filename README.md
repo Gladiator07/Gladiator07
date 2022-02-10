@@ -99,7 +99,7 @@
 #### Operating System
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/mac.png?raw=true"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png"></code>
 
 #### Hardware
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
