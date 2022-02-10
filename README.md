@@ -36,8 +36,10 @@
 - ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
+- [Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/c/happy-whale-and-dolphin)
+- [NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
+
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-- [Feedback Prize - Evaluating Student Writing (Kaggle)](https://www.kaggle.com/c/feedback-prize-2021)
 
 ### Recent Projects/Achievements 🎉🎉
 - [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
