@@ -38,6 +38,7 @@
 ### I am currently working on:
 - [Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/c/happy-whale-and-dolphin)
 - [NBME - Score Clinical Patient Notes (Kaggle)](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
+- [U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
 
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 
