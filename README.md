@@ -50,10 +50,11 @@
 - [GPU and TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
----
 
 ### Blogs ✍️
 - [Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/) - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
+
+---
 
 ### Tools and Technologies:
 
