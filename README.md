@@ -27,19 +27,37 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<!-- <img align="right" alt="GIF" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif" /> -->
-
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
+---
+
+### My go-to Tech Stack
+- [PyTorch](https://pytorch.org/)/[PyTorch Lightning](https://www.pytorchlightning.ai/) -  for all Deep Learning stuff
+- [HuggingFace](https://huggingface.co/) -  for all NLP stuff
+- [Rapids.ai](https://rapids.ai/) -  for GPU accelerated ML
+- [Weights & Biases](https://wandb.ai/site) -  for experiment tracking / MLOPs
+- [Jarvislabs.ai](https://jarvislabs.ai/) -  cloud GPU platform for training all my models
+- [Streamlit](https://streamlit.io/) -  for creating quick demonstrable web apps
+- [VSCode](https://code.visualstudio.com/) -  for developing software
+- [Bash](https://www.gnu.org/software/bash/) -  for automating stuff
+- [Jupyter Notebooks](https://jupyter.org/) -  for quick experimentations
+- [Hydra](https://hydra.cc/) -  for configuration management
+- [Slack](https://slack.com/intl/en-in/) -  for alerts (experiment run alerts)
+- [Fast API](https://fastapi.tiangolo.com/) -  for building APIs
+
+---
+
 ### I am currently working on:
 - [U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
 - [American Express - Default Prediction (Kaggle)](https://www.kaggle.com/competitions/amex-default-prediction)
 - [Feedback Prize - Predicting Effective Arguments (Kaggle)](https://www.kaggle.com/competitions/feedback-prize-eff)
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
+
+---
 
 ### Recent Projects/Achievements 🎉🎉
 - [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) - 117/1505 (bronze medal) - [code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)
@@ -50,6 +68,8 @@
 - [GPU and TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)
 - [Harvestify](https://github.com/Gladiator07/Harvestify)
 - [JARVIS](https://github.com/Gladiator07/JARVIS)
+
+---
 
 ### Blogs ✍️
 - [Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/) - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
