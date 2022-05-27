@@ -53,13 +53,15 @@
 
 ### Blogs ✍️
 - [Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/) - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
-
+- [HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/) - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
+- 
 ---
 
 ### Tools and Technologies:
 
 #### Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
@@ -67,11 +69,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 
 #### Libraries/Frameworks
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
+<code><img height="30" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
