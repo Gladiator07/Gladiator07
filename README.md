@@ -37,8 +37,8 @@
 
 ### I am currently working on:
 - [U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
-- [Foursquare - Location Matching (Kaggle)](https://www.kaggle.com/competitions/foursquare-location-matching)
-
+- [American Express - Default Prediction (Kaggle)](https://www.kaggle.com/competitions/amex-default-prediction)
+- [Feedback Prize - Predicting Effective Arguments (Kaggle)](https://www.kaggle.com/competitions/feedback-prize-eff)
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
 
 ### Recent Projects/Achievements 🎉🎉
