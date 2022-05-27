@@ -74,7 +74,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png"></code>
 <code><img height="30" src="https://huggingface.co/favicon.ico"></code>
-<code><img height="30" src=""></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4"></code>
 <code><img height="30" src="https://developer.nvidia.com/sites/default/files/pictures/2018/rapids/rapids-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
