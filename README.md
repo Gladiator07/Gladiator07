@@ -74,7 +74,7 @@
 ### Blogs ✍️
 - [Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/) - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
 - [HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/) - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
-- 
+
 ---
 
 ### Tools and Technologies:
