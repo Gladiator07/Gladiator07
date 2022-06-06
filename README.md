@@ -48,6 +48,7 @@
 - [Hydra](https://hydra.cc/) -  for configuration management
 - [Slack](https://slack.com/intl/en-in/) -  for alerts (experiment run alerts)
 - [Fast API](https://fastapi.tiangolo.com/) -  for building APIs
+- [Notion](https://www.notion.so/) - for managing everything aka my second brain
 
 ---
 
