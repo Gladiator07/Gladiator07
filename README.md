@@ -10,11 +10,11 @@
 
 ***Hit me up on any platform if you want to have a talk!***
 
-<a href="mailto:atharvaaingle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter" target="_blank"></a>
-<a href="https://www.linkedin.com/in/atharva-ingle-564430187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
-<a href="https://twitter.com/AtharvaIngle7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" target="_blank"></a>
-<a href="https://www.kaggle.com/atharvaingle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle" target="_blank"></a>
-<a href="https://wandb.ai/gladiator"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B" target="_blank"></a>
+<a href="mailto:atharvaaingle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/atharva-ingle-564430187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/AtharvaIngle7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.kaggle.com/atharvaingle" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
+<a href="https://wandb.ai/gladiator" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
 
 
 ---
