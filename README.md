@@ -8,20 +8,22 @@
 ---
 ## Contact Me
 
-*Hit me up on any platform if you want to have a talk!*
+***Hit me up on any platform if you want to have a talk!***
 
-<a href="https://www.linkedin.com/in/atharva-ingle-564430187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://www.kaggle.com/atharvaingle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
-<a href="https://twitter.com/AtharvaIngle7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
-<a href="https://www.linkedin.com/in/atharva-ingle-564430187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
-<a href="atharvaaingle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="atharvaaingle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter" target="_blank"></a>
+<a href="https://www.linkedin.com/in/atharva-ingle-564430187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
+<a href="https://twitter.com/AtharvaIngle7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" target="_blank"></a>
+<a href="https://www.kaggle.com/atharvaingle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle" target="_blank"></a>
+<a href="https://wandb.ai/gladiator"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B" target="_blank"></a>
+
 
 ---
 ## About Me
 - 🔭 I am into ML/DL, CV, NLP
 - 🌱 I’m currently learning JAX/FLAX and MLOPS
 - 👯 I’m looking to collaborate on Kaggle Competitions
-- ⚡ Fun fact: I love to participate in Machine Learning competitions and I'm a Kaggle Competition Expert and highly active [there](https://www.kaggle.com/atharvaingle)
+- 💪 I recently started contributing to [HuggingFace 🤗](https://github.com/huggingface)
+- ⚡ Fun fact: I love to participate in Machine Learning competitions and I'm a **Kaggle Competition Expert** and highly active [there](https://www.kaggle.com/atharvaingle)
 ---
 
 ## 🛠 My Projects
