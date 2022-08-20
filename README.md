@@ -40,7 +40,7 @@
 
 ## 🏆 Achievements
 
-*Click on the competition name to go to it's overview page and click of solution + code links to see the approach and source code*
+*Click on the competition name to go to it's overview page and click solution + code links to see the approach and source code*
 
 - **[Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)** - **12th place** finish among **3200+ teams** across India - [[solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)]
 - **[U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)**, identify similar phrases in U.S patents - **top 1% (31/1889)** [[solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355)] [[code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle)]
