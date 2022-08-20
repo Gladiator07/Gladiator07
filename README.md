@@ -1,136 +1,41 @@
-
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1>
-<h3 align="center">Interested in anything related to AI</h3>
-
+<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h3 align="center">I like to train Neural Networks.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Gladiator07)
 
-<h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
+#### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle)
-[![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
-<!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
-
-
-<!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)
-<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> -->
-
----
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
+## About Me
+- 🔭 I've worked extensively in Machine Learning and Deep Learning
+- 🌱 I’m currently learning JAX/FLAX and MLOPS
 - 👯 I’m looking to collaborate on Kaggle Competitions
-- 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
+- ⚡ Fun fact: I like to participate in Machine Learning competitions and I'm a Kaggle Competition Expert and highly active [there](https://www.kaggle.com/atharvaingle)
+---
+### 🛠 My Projects
+- **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Gradine Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
+- **[Text Summarizer](https://github.com/Gladiator07/Text-Summarizer)** - A transformer based extractive and abstractive text summarizer supporting wide range of input formats. [[demo app](https://huggingface.co/spaces/Gladiator/Text-Summarizer)]
+- **[Healthify](https://github.com/Gladiator07/Healthify)** - a ML based website which predicts the disease based on the symptoms entered by the patient, also supports several disease diagnosis. [[demo app](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)]
+- **[GPU vs TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)** - compared GPU and TPU for computer vision applications using Google Cloud TPUs and TFRecords data format. [[results](https://wandb.ai/gladiator/GPU-vs-TPU)]
+- **[HARVESTIFY](https://github.com/Gladiator07/Harvestify)** - a ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops. [[demo app](https://harvestify.herokuapp.com/)]
+- **[JARVIS](https://github.com/Gladiator07/JARVIS)** - a simple voice assistant made using Python [[demo video](https://www.youtube.com/watch?v=oKtrHy0ERNA)]
+
+---
+### 🏆 Achievements
+- **[Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)** - **12th place** finish among **3200+ teams** across India - [[solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)]
+- **[U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)**, indentify similar phrases in U.S patents - **top 1% (31/1889)** [[solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355)] [[code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle)]
+- **[Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/competitions/bms-molecular-translation/overview)**, translating chemical images to text - **silver medal (50/874)** - [[solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820)]
+- **[Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)**, detecting single neuronal cells in microscopy images - **bronze medal (117/1505)** - [[code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)]
+- **[Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/competitions/happy-whale-and-dolphin)** - **bronze medal (132/1588)**
+---
+### 📝 Open-Source GitHub Contributions
 
 ---
 
-### My go-to Tech Stack
-- [PyTorch](https://pytorch.org/)/[PyTorch Lightning](https://www.pytorchlightning.ai/) -  for all Deep Learning stuff
-- [HuggingFace](https://huggingface.co/) -  for all NLP stuff
-- [Rapids.ai](https://rapids.ai/) -  for GPU accelerated ML
-- [Weights & Biases](https://wandb.ai/site) -  for experiment tracking / MLOPs
-- [Jarvislabs.ai](https://jarvislabs.ai/) -  cloud GPU platform for training all my models
-- [Streamlit](https://streamlit.io/) -  for creating quick demonstrable web apps
-- [VSCode](https://code.visualstudio.com/) -  for developing software
-- [Bash](https://www.gnu.org/software/bash/) -  for automating stuff
-- [Jupyter Notebooks](https://jupyter.org/) -  for quick experimentations
-- [Hydra](https://hydra.cc/) -  for configuration management
-- [Slack](https://slack.com/intl/en-in/) -  for alerts (experiment run alerts)
-- [Fast API](https://fastapi.tiangolo.com/) -  for building APIs
-- [Notion](https://www.notion.so/) - for managing everything aka my second brain
-
+### ✍️ Blogs
+- **[Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/)** - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
+- **[HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/)** - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
 ---
-
-### I am currently working on:
-- [U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
-- [American Express - Default Prediction (Kaggle)](https://www.kaggle.com/competitions/amex-default-prediction)
-- [Feedback Prize - Predicting Effective Arguments (Kaggle)](https://www.kaggle.com/competitions/feedback-prize-eff)
-- ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
-
+### 💪 Currently working on
 ---
-
-### Recent Projects/Achievements 🎉🎉
-- [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) - 117/1505 (bronze medal) - [code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)
-- [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
-- [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation) - 50th/874 (silver medal) - [solution approach + code](https://github.com/Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle)
-- [Extractive and Abstractive Text Summarizer using Transformers](https://github.com/Gladiator07/Text-Summarizer)
-- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [GPU and TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)
-- [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [JARVIS](https://github.com/Gladiator07/JARVIS)
-
----
-
-### Blogs ✍️
-- [Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/) - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
-- [HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/) - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
-
----
-
-### Tools and Technologies:
-
-#### Languages
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png"></code>
-
-#### Libraries/Frameworks
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png"></code>
-<code><img height="30" src="https://huggingface.co/favicon.ico"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4"></code>
-<code><img height="30" src="https://developer.nvidia.com/sites/default/files/pictures/2018/rapids/rapids-logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
-<code><img height="30" src="https://image.pngaaa.com/798/5084798-middle.png"></code>
-<code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
-
-#### Cloud Platforms
-<code><img height="30" src="https://jarvislabs.ai/img/jl.ico"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
-<code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="30" src="https://www.finsmes.com/wp-content/uploads/2018/10/paperspace.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-#### Others
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-#### Operating System
-<code><img height="30" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
-
-#### Hardware
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
-<code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
-
----
-<!-- [![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/) -->
 
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats) -->
