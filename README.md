@@ -8,7 +8,8 @@
 ---
 ## Contact Me
 
-Hit me up on any platform if you want to have a talk!
+*Hit me up on any platform if you want to have a talk!*
+
 <a href="https://www.linkedin.com/in/atharva-ingle-564430187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://www.kaggle.com/atharvaingle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://twitter.com/AtharvaIngle7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
@@ -24,6 +25,9 @@ Hit me up on any platform if you want to have a talk!
 ---
 
 ## 🛠 My Projects
+
+*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
+
 - **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Gradine Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
 - **[Text Summarizer](https://github.com/Gladiator07/Text-Summarizer)** - A transformer based extractive and abstractive text summarizer supporting wide range of input formats. [[demo app](https://huggingface.co/spaces/Gladiator/Text-Summarizer)]
 - **[Healthify](https://github.com/Gladiator07/Healthify)** - a ML based website which predicts the disease based on the symptoms entered by the patient, also supports several disease diagnosis. [[demo app](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)]
@@ -33,6 +37,9 @@ Hit me up on any platform if you want to have a talk!
 ---
 
 ## 🏆 Achievements
+
+*Click on the competition name to go to it's overview page and click of solution + code links to see the approach and source code*
+
 - **[Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)** - **12th place** finish among **3200+ teams** across India - [[solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)]
 - **[U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)**, identify similar phrases in U.S patents - **top 1% (31/1889)** [[solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355)] [[code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle)]
 - **[Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/competitions/bms-molecular-translation/overview)**, translating chemical images to text - **silver medal (50/874)** - [[solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820)]
