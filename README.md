@@ -30,7 +30,7 @@
 
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
 
-- **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Gradine Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
+- **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
 - **[Text Summarizer](https://github.com/Gladiator07/Text-Summarizer)** - A transformer based extractive and abstractive text summarizer supporting wide range of input formats. [[demo app](https://huggingface.co/spaces/Gladiator/Text-Summarizer)]
 - **[Healthify](https://github.com/Gladiator07/Healthify)** - a ML based website which predicts the disease based on the symptoms entered by the patient, also supports several disease diagnosis. [[demo app](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)]
 - **[GPU vs TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)** - compared GPU and TPU for computer vision applications using Google Cloud TPUs and TFRecords data format. [[results](https://wandb.ai/gladiator/GPU-vs-TPU)]
