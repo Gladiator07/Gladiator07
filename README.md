@@ -54,16 +54,19 @@
 - Made the experiment trackers to launch only on main process in distributed setups on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/642)]**
 - Fixed several examples and removed the check for main process after fixing the tracker's initialization on all processes on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/643)]**
 - Update several 🤗 transformers `no_trainer` scripts leveraging 🤗 [Accelerate](https://github.com/huggingface/accelerate) to remove the check for `is_main_process` while initiating trackers by `accelerator.init_trackers()` as this issue was fixed by me in this [PR](https://github.com/huggingface/accelerate/pull/642) - **[[PR](https://github.com/huggingface/transformers/pull/18706)]**
-- Contributed a report to [Weights & Biases](https://wandb.ai/site) showcasing the integration of [MONAI](https://github.com/Project-MONAI/MONAI) and W&B.
+- Contributed a report to [Weights & Biases](https://wandb.ai/site) showcasing the integration of [MONAI](https://github.com/Project-MONAI/MONAI) and W&B - **[PR](https://github.com/wandb/examples/pull/304)**
 
 ---
 ## ✍️ Blogs
 - **[Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/)** - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
 - **[HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/)** - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
-
+- **[3D Segmentation with MONAI and PyTorch Supercharged by Weights & Biases](https://wandb.ai/gladiator/MONAI_Spleen_3D_Segmentation/reports/3D-Segmentation-with-MONAI-and-PyTorch-Supercharged-by-Weights-Biases---VmlldzoyNDgxNDMz)** - A W&B report showcasing the integration of MONAI and W&B for medical imaging. Shows how to efficiently track experiments, perform error analysis, artifacts versioning and much more using the rich suite of W&B features.
 ---
+
 ## 💪 Currently working on
-- [Open Problems - Multimodal Single-Cell Integration](https://www.kaggle.com/competitions/open-problems-multimodal) - Predicting how DNA, RNA & protein measurements co-vary in single cells
+- **[Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)** - Evaluating language knowledge of ELL students from grades 8-12.
+- **[Novozymes Enzyme Stability Prediction](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction)** - Help identify the thermostable mutations in enzymes.
+
 ---
 
 ![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
