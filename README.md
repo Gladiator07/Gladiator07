@@ -53,6 +53,8 @@
 - Fixed an example script on [HuggingFace 🤗 transformers](https://github.com/huggingface/transformers) repository for XLA devices - **[[PR]](https://github.com/huggingface/transformers/pull/18676)**
 - Made the experiment trackers to launch only on main process in distributed setups on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/642)]**
 - Fixed several examples and removed the check for main process after fixing the tracker's initialization on all processes on [🤗 Accelerate](https://github.com/huggingface/accelerate) library - **[[PR](https://github.com/huggingface/accelerate/pull/643)]**
+- Update several 🤗 transformers `no_trainer` scripts leveraging 🤗 [Accelerate](https://github.com/huggingface/accelerate) to remove the check for `is_main_process` while initiating trackers by `accelerator.init_trackers()` as this issue was fixed by me in this [PR](https://github.com/huggingface/accelerate/pull/642) - **[[PR](https://github.com/huggingface/transformers/pull/18706)]**
+- Contributed a report to [Weights & Biases](https://wandb.ai/site) showcasing the integration of [MONAI](https://github.com/Project-MONAI/MONAI) and W&B.
 
 ---
 ## ✍️ Blogs
