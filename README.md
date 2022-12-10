@@ -61,11 +61,11 @@
 - **[Managing and Tracking ML Experiments](https://jarvislabs.ai/blogs/ml-tracking/)** - An extensive blog where I've shared my experience and ways to track and manage machine learning experiments effectively for research projects and Kaggle competitions (w/ Weights & Biases and Hydra)
 - **[HuggingFace is all you need for NLP and beyond](https://jarvislabs.ai/blogs/hf-getting-started/)** - A tutorial/blog on [HuggingFace](https://huggingface.co/) ecosystem and how to use and customize 🤗 `datasets` and 🤗`Trainer` for all of your NLP problems.
 - **[3D Segmentation with MONAI and PyTorch Supercharged by Weights & Biases](https://wandb.ai/gladiator/MONAI_Spleen_3D_Segmentation/reports/3D-Segmentation-with-MONAI-and-PyTorch-Supercharged-by-Weights-Biases---VmlldzoyNDgxNDMz)** - A W&B report showcasing the integration of MONAI and W&B for medical imaging. Shows how to efficiently track experiments, perform error analysis, artifacts versioning and much more using the rich suite of W&B features.
+- **[DeepMind Flamingo: A Visual Language Model for Few-Shot Learning](https://wandb.ai/gladiator/Flamingo%20VLM/reports/DeepMind-Flamingo-A-Visual-Language-Model-for-Few-Shot-Learning--VmlldzoyOTgzMDI2)** - A Weights & Biases report explaining the paper Flamingo: A Visual Language Model for Few-Shot learning by DeepMind. This report is also featured on [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) YouTube Channel **[here](https://youtu.be/zOU6usZRJvA)**.
 ---
 
 ## 💪 Currently working on
-- **[Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)** - Evaluating language knowledge of ELL students from grades 8-12.
-- **[Novozymes Enzyme Stability Prediction](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction)** - Help identify the thermostable mutations in enzymes.
+- Open-Source :)
 
 ---
 
