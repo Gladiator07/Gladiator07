@@ -19,7 +19,7 @@
 
 ---
 ## About Me
-- 🔭 I am currently a Data Science Intern at [Wolters Kluwer](https://www.wolterskluwer.com/en-in) where I work mostly on Document Intelligence
+- 🔭 I am currently a Data Science Intern at [Wolters Kluwer](https://www.wolterskluwer.com/en-in) where I work mostly on Document AI developing end-to-end MLOPs pipelines for extracting information from PDFs.
 - 🚀 I am an Ambassador for [Weights & Biases](https://wandb.ai/site)
 - 🌱 I’m currently learning MLOPs
 - 👯 I’m looking to collaborate on Kaggle Competitions
@@ -36,7 +36,7 @@ I was a speaker at inaugural **Weights & Biases MLOps conference ([Fully Connect
 ## 🛠 My Projects
 
 *Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
-
+- **[QA Bot for Gradient Dissent podcast hosted by Weights & Biases](https://github.com/Gladiator07/wandb-gradient-dissent-bot/tree/main)**: A Question-Answering bot built on top of OPENAI's LLMs and LangChain to provide summary, potential questions on the podcast and the ability to answer any question the user has on the podcast. [[demo app](https://huggingface.co/spaces/Gladiator/gradient_dissent_bot)]
 - **[Text to Image Synthesis using Attentional GANs](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)** - A PyTorch re-implementation of the paper [AttnGAN](https://arxiv.org/abs/1711.10485): Fine-Grained Text to Image Generation with Attentional Generative Adverserial Networks. [[demo app](https://share.streamlit.io/gladiator07/text-to-image-synthesis-with-attngan/main/app.py)]
 - **[Text Summarizer](https://github.com/Gladiator07/Text-Summarizer)** - A transformer based extractive and abstractive text summarizer supporting wide range of input formats. [[demo app](https://huggingface.co/spaces/Gladiator/Text-Summarizer)]
 - **[Healthify](https://github.com/Gladiator07/Healthify)** - a ML based website which predicts the disease based on the symptoms entered by the patient, also supports several disease diagnosis. [[demo app](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)]
