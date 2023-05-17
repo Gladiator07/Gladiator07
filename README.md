@@ -29,7 +29,7 @@
 
 ## Recent work
 
-I was a speaker at inaugural **Weights & Biases MLOps conference ([Fully Connected 2023](https://www.fullyconnected.com/home)). You can listen to my talk [here](https://www.fullyconnected.com/agenda/session/1065344)**. [[Announcement LinkedIn Post](https://www.linkedin.com/posts/atharva-ingle-564430187_ai-ml-mlops-activity-7041066317012975617-NiYf?utm_source=share&utm_medium=member_desktop)]
+I was a speaker at inaugural **Weights & Biases MLOps conference ([Fully Connected 2023](https://www.fullyconnected.com/home)). You can listen to my talk [https://youtu.be/o4gekl0DxbM?t=1033](https://www.fullyconnected.com/agenda/session/1065344)**. [[Announcement LinkedIn Post](https://www.linkedin.com/posts/atharva-ingle-564430187_ai-ml-mlops-activity-7041066317012975617-NiYf?utm_source=share&utm_medium=member_desktop)]
 
 ---
 
