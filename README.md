@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">I like to train Neural Networks</h3>
+<h3 align="center">Teaching machines to learn, one byte at a time</h3>
 
 ![](https://komarev.com/ghpvc/?username=Gladiator07)
 
-#### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+
+### My Resume: **[Link](https://drive.google.com/file/d/13X3rklQJHP2CiYGQbxKqU89IvzaDen6i/view?usp=sharing)**
 
 ---
 ## Contact Me
