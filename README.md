@@ -5,7 +5,9 @@
 
 ### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
 
-### My Resume: **[Link](https://drive.google.com/file/d/13X3rklQJHP2CiYGQbxKqU89IvzaDen6i/view?usp=sharing)**
+
+
+### My Resume: <a href="https://drive.google.com/file/d/13X3rklQJHP2CiYGQbxKqU89IvzaDen6i/view?usp=sharing" target="_blank">Link</a>
 
 ---
 ## Contact Me
