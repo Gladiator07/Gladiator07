@@ -19,7 +19,7 @@
 <a href="https://twitter.com/AtharvaIngle7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/atharvaingle" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
 <a href="https://wandb.ai/gladiator" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
-
+<a href="https://www.youtube.com/channel/UCT6C1WwBRvi1Gc4iVdeP8FQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 ---
 ## About Me
@@ -80,6 +80,7 @@ TODO: add more contributions
 - **[SetFit: Efficient Few-Shot Learning Without Prompts](https://wandb.ai/gladiator/SetFit/reports/SetFit-Efficient-Few-Shot-Learning-Without-Prompts--VmlldzozMDUyMzk2)** - this report dives into HuggingFace, Intel Labs, and UKP Lab's recent paper on Efficient Few-Shot Learning Without Prompts. SetFit exceeds prior methods in accuracy and efficiency with just 8 labeled samples.
 - **[Is PyTorch 2.0 Faster Than PyTorch 1.13?](https://wandb.ai/gladiator/PyTorch%202.0%20Benchmarks%20v2/reports/Is-PyTorch-2-0-Faster-Than-PyTorch-1-13---VmlldzozNDA2MDQz)** - this report compares the PyTorch 1.3 and the newly announced PyTorch 2.0, with it's highlight being the torch.compile mode which provides significant speed gains .
 - **[BLIP-2: A new Visual Language Model by Salesforce](https://wandb.ai/gladiator/BLIP-2/reports/BLIP-2-A-new-Visual-Language-Model-by-Salesforce--VmlldzozNjM0NjYz)** - this reports explores BLIP-2, a new Vision Language Model by Salesforce which beats the previous state-of-the-art Flamingo on various multimodal tasks.
+- **[Building a Q&A Bot for Weights & Biases' Gradient Dissent Podcast using LangChain and OpenAI](https://wandb.ai/gladiator/gradient_dissent_qabot/reports/Building-a-Q-A-Bot-for-Weights-Biases-Gradient-Dissent-Podcast--Vmlldzo0MTcyMDQz)** - in this article, we explore how to utilize OpenAI's ChatGPT and LangChain to build a Question-Answering bot for Weights & Biases' podcast series, Gradient Dissent.
 ---
 
 ## 💪 Currently working on
