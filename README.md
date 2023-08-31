@@ -23,11 +23,10 @@
 
 ---
 ## About Me
-- 🔭 I am currently a Data Science Intern at [Wolters Kluwer](https://www.wolterskluwer.com/en-in) where I work mostly on Document AI developing end-to-end MLOPs pipelines for extracting information from PDFs.
+- 🔭 I am Data Scientist at [Wolters Kluwer](https://www.wolterskluwer.com/en-in) where I work mostly on Document AI and LLMs, developing end-to-end MLOPs pipelines for extracting information from PDFs.
 - 🚀 I am an Ambassador for [Weights & Biases](https://wandb.ai/site)
-- 🌱 I’m currently learning MLOPs
 - 👯 I’m looking to collaborate on Kaggle Competitions
-- 💪 I recently started contributing to [HuggingFace 🤗](https://github.com/huggingface)
+- 💪 I love contributing to open-source libraries.
 - ⚡ Fun fact: I love to participate in Machine Learning competitions and I'm a **Kaggle Competition Expert** and highly active [there](https://www.kaggle.com/atharvaingle)
 ---
 
