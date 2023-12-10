@@ -5,15 +5,14 @@
 
 ### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
 
-
-
-### [My Linktree](https://linktr.ee/atharvaingle)
-
 ---
 ## Contact Me
 
-***Hit me up on any platform if you want to have a talk!***
+***Hit me up on any platform on my linktree or the ones mentioned below if you want to have a talk!***
 
+### [My Linktree](https://linktr.ee/atharvaingle)
+
+### Other platforms
 <a href="mailto:atharvaaingle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 <a href="https://www.linkedin.com/in/atharva-ingle-564430187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://twitter.com/AtharvaIngle7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
