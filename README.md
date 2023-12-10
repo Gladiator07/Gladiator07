@@ -7,7 +7,7 @@
 
 
 
-### My Resume: <a href="https://drive.google.com/file/d/1uvuzdW4gERp8kbcixanOgENIaNMpXDA0/view?usp=sharing" target="_blank">Link</a>
+### [My Linktree](https://linktr.ee/atharvaingle)
 
 ---
 ## Contact Me
