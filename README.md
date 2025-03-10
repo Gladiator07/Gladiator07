@@ -45,7 +45,7 @@ I was a speaker at inaugural **Weights & Biases MLOps conference ([Fully Connect
 | Competition | Placement | Organization | Code/Solution |
 |-------------|-----------|--------------|--------------|
 | [DataSolve 2022](https://www.kaggle.com/competitions/datasolve-india/overview) | 1st place | Wolters Kluwer | [code](https://github.com/Gladiator07/DataSolve-WK-2022) |
-| [GIA Winner](https://www.wolterskluwer.com/en/expert-insights/the-global-innovation-awards-innovation-led-by-employees) | CEO's choice award winner | Wolters Kluwer | 
+| [GIA Winner 2024](https://www.wolterskluwer.com/en/expert-insights/the-global-innovation-awards-innovation-led-by-employees) | CEO's choice award winner | Wolters Kluwer | 
 | [Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/) | 11th place (among 3200+ teams) | Amazon | [solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge) |
 | [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) | Top 1%, silver medal (31/1889) | Kaggle | [solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355) [code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle) |
 | [Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/competitions/bms-molecular-translation/overview) | Silver medal (50/874) | Kaggle | [solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820) |
