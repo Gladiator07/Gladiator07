@@ -31,7 +31,7 @@
 
 ## Recent public work
 
-- Participated in [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) - 
+- Participated in [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) [results yet to be announced]: challenge was to develop a reward model (used in RLHF stage) for multilingual human conversations on the chatbot arena (formerly LMSYS). Finetuned LLMs as reward models in classification setting and used various techniques like multi-stage training (pretraining, finetuning), pseudo labelling, LoRA, QLoRA, efficient inference techniques, knowledge distillation, etc. 
 
 
 ## Talks
@@ -42,13 +42,17 @@ I was a speaker at inaugural **Weights & Biases MLOps conference ([Fully Connect
 
 *Click on the competition name to go to it's overview page and click solution + code links to see the approach and source code*
 
-- **[DataSolve 2022](https://www.kaggle.com/competitions/datasolve-india/overview)** - **1st place** finish in the competition organized by [Wolters Kluwer](https://www.wolterskluwer.com/en-in) - [[code](https://github.com/Gladiator07/DataSolve-WK-2022)]
-- **[Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/)** - **11th place** finish among **3200+ teams** across India - [[solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)]
-- **[U.S. Patent Phrase to Phrase Matching (Kaggle)](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)**, identify similar phrases in U.S patents - **top 1% (31/1889)** [[solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355)] [[code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle)]
-- **[Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/competitions/bms-molecular-translation/overview)**, translating chemical images to text - **silver medal (50/874)** - [[solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820)]
-- **[Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)**, detecting single neuronal cells in microscopy images - **bronze medal (117/1505)** - [[code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)]
-- **[Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/competitions/happy-whale-and-dolphin)** - **bronze medal (132/1588)**
-
+| Competition | Placement | Organization | Code/Solution |
+|-------------|-----------|--------------|--------------|
+| [DataSolve 2022](https://www.kaggle.com/competitions/datasolve-india/overview) | 1st place | Wolters Kluwer | [code](https://github.com/Gladiator07/DataSolve-WK-2022) |
+| [GIA Winner](https://www.wolterskluwer.com/en/expert-insights/the-global-innovation-awards-innovation-led-by-employees) | CEO's choice award winner | Wolters Kluwer | 
+| [Amazon ML Challenge 2021](https://www.hackerearth.com/login/?next=/challenges/competitive/amazon-ml-challenge/instructions/) | 11th place (among 3200+ teams) | Amazon | [solution + code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge) |
+| [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) | Top 1%, silver medal (31/1889) | Kaggle | [solution](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332355) [code](https://github.com/Gladiator07/U.S.-Patent-Phrase-to-Phrase-Matching-Kaggle) |
+| [Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/competitions/bms-molecular-translation/overview) | Silver medal (50/874) | Kaggle | [solution + code](https://www.kaggle.com/competitions/bms-molecular-translation/discussion/243820) |
+| [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) | Bronze medal (117/1505) | Kaggle | [code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle) |
+| [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin) | Bronze medal (132/1588) | Kaggle | - |
+| [Kaggle - LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam) | Silver medal (123/2664) | Kaggle | - |
+ 
 ---
 
 ## 🛠 My Projects
