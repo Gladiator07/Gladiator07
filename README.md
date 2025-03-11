@@ -31,7 +31,7 @@
 
 ## Recent public work
 
-- Participated in [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) [results yet to be announced]: challenge was to develop a reward model (used in RLHF stage) for multilingual human conversations on the chatbot arena (formerly LMSYS). Finetuned LLMs as reward models in classification setting and used various techniques like multi-stage training (pretraining, finetuning), pseudo labelling, LoRA, QLoRA, efficient inference techniques, knowledge distillation, etc. 
+- Participated in [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) [**got a solo silver medal placing 31st out of 950 teams**]: challenge was to develop a reward model (used in RLHF stage) for multilingual human conversations on the chatbot arena (formerly LMSYS). Finetuned LLMs as reward models in classification setting and used various techniques like multi-stage training (pretraining, finetuning), pseudo labelling, LoRA, QLoRA, efficient inference techniques, knowledge distillation, etc. 
 
 
 ## Talks
