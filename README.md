@@ -6,6 +6,14 @@
 ### Welcome to my profile  
 This README is a quick overview of my work, research interests, and projects.
 
+## 📊 GitHub Stats
+
+![Total Stars](https://img.shields.io/badge/Total%20Stars-__TOTAL_STARS__-0A66C2?logo=github)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-__TOTAL_REPOS__-111827?logo=github)
+![Followers](https://img.shields.io/badge/Followers-__FOLLOWERS__-7C3AED?logo=github)
+![Total Forks](https://img.shields.io/badge/Total%20Forks-__TOTAL_FORKS__-059669?logo=github)
+
+
 > [!NOTE]  
 > ### **Check out my personal website for the most up-to-date information about my work:** [atharvaingle.dev](https://atharvaingle.dev/)  
 > ### **This GitHub README may not always reflect my latest work and experiments.**
@@ -120,8 +128,3 @@ TODO: add more contributions
 
 ## 💪 Currently working on
 - Kaggle competitions and Open-Source :)
-
----
-
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true)
-
