@@ -8,10 +8,10 @@ This README is a quick overview of my work, research interests, and projects.
 
 ## 📊 GitHub Stats
 
-![Total Stars](https://img.shields.io/badge/Total%20Stars-__TOTAL_STARS__-0A66C2?logo=github)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-__TOTAL_REPOS__-111827?logo=github)
-![Followers](https://img.shields.io/badge/Followers-__FOLLOWERS__-7C3AED?logo=github)
-![Total Forks](https://img.shields.io/badge/Total%20Forks-__TOTAL_FORKS__-059669?logo=github)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-1236-0A66C2?logo=github)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-80-111827?logo=github)
+![Followers](https://img.shields.io/badge/Followers-508-7C3AED?logo=github)
+![Total Forks](https://img.shields.io/badge/Total%20Forks-777-059669?logo=github)
 
 
 > [!NOTE]  
