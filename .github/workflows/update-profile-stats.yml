@@ -1,0 +1,58 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub stats
+        env:
+          USERNAME: Gladiator07
+        run: |
+          user_json=$(curl -fsSL "https://api.github.com/users/${USERNAME}")
+
+          followers=$(echo "$user_json" | jq '.followers // 0')
+          public_repos=$(echo "$user_json" | jq '.public_repos // 0')
+
+          total_stars=0
+          total_forks=0
+          page=1
+
+          while true; do
+            repos=$(curl -fsSL "https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}")
+
+            count=$(echo "$repos" | jq 'length')
+            if [ "$count" -eq 0 ]; then
+              break
+            fi
+
+            stars=$(echo "$repos" | jq '[.[].stargazers_count] | add // 0')
+            forks=$(echo "$repos" | jq '[.[].forks_count] | add // 0')
+
+            total_stars=$((total_stars + stars))
+            total_forks=$((total_forks + forks))
+            page=$((page + 1))
+          done
+
+          sed -i "s/__TOTAL_STARS__/${total_stars}/g" README.md
+          sed -i "s/__TOTAL_REPOS__/${public_repos}/g" README.md
+          sed -i "s/__FOLLOWERS__/${followers}/g" README.md
+          sed -i "s/__TOTAL_FORKS__/${total_forks}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update profile stats"
+          git push
