@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">Teaching machines to learn, one byte at a time</h3>
+<h3 align="center">AI Engineer working on LLM post-training, inference systems, and GPU infrastructure</h3>
 
 ![](https://komarev.com/ghpvc/?username=Gladiator07)
 
-### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+### Welcome to my profile  
+This README is a quick overview of my work, research interests, and projects.
 
 > [!NOTE]  
-> ### **Check out my personal website to get the most updated info about my work:** [atharvaingle.dev](https://atharvaingle.dev/)  
-> ### **The info in this GitHub README might be out-dated.**
-
+> ### **Check out my personal website for the most up-to-date information about my work:** [atharvaingle.dev](https://atharvaingle.dev/)  
+> ### **This GitHub README may not always reflect my latest work and experiments.**
 
 ---
+
 ## Contact Me
 
-***Hit me up on any platform on my linktree or the ones mentioned below if you want to have a talk!***
+***Feel free to reach out through any of the platforms below if you'd like to collaborate, discuss research, or just talk ML/AI.***
 
 ### [My Linktree](https://linktr.ee/atharvaingle)
 
 ### Other platforms
-<a href="mailto:atharvaaingle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="mailto:atharvaaingle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/atharva-ingle-564430187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://twitter.com/AtharvaIngle7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.kaggle.com/atharvaingle" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
@@ -26,13 +27,23 @@
 <a href="https://www.youtube.com/channel/UCT6C1WwBRvi1Gc4iVdeP8FQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 ---
+
 ## About Me
-- 🔭 I am Data Scientist at [Wolters Kluwer](https://www.wolterskluwer.com/en-in) where I work mostly on Document AI and LLMs, developing end-to-end MLOPs pipelines for extracting information from PDFs.
-- 🚀 I am an Ambassador for [Weights & Biases](https://wandb.ai/site)
-- 👯 I’m looking to collaborate on Kaggle Competitions
-- 💪 I love contributing to open-source libraries.
-- ⚡ Fun fact: I love to participate in Machine Learning competitions and I'm a **Kaggle Competition Expert** and highly active [there](https://www.kaggle.com/atharvaingle)
+
+- 🔭 I am an **AI Engineer at [E2E Networks](https://www.e2enetworks.com/)**, working with the [**JarvisLabs**](https://jarvislabs.ai/) team on LLM infrastructure, post-training, inference systems, and applied AI products.
+- 🤖 My work focuses on **LLMs, post-training, inference, and GPU-native AI workflows**.
+- 👯 I’m always open to collaborating on **ML/LLM research and open-source**.
+- 💪 I enjoy contributing to open-source libraries and sharing what I learn through blogs, demos, and public technical writing.
+- I am active on Kaggle and love to participate in ML competitions.
+
 ---
+
+## Recent public work
+
+- Participated in [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) and won a **solo silver medal (31st out of 950 teams)**.  
+  Built multilingual reward-modeling pipelines for human conversation ranking using techniques such as multi-stage training, pseudo-labeling, LoRA/QLoRA, efficient inference, and distillation. **[Code here](https://github.com/Gladiator07/WSDM-Cup-2025-Kaggle)**
+
+- I also write and experiment across topics such as **LLM systems, RAG, RL for LLMs, OCR, and production AI infrastructure**, with a strong focus on practical engineering and reproducible workflows.
 
 ## Recent public work
 
